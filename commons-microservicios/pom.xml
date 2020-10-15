@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mx.com.kene.microservicios.commons</groupId>
-	<artifactId>commons-microservicios-1</artifactId>
+	<artifactId>commons-microservicios</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>commons-microservicios-1</name>
+	<name>commons-microservicios</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -46,14 +46,5 @@
 			</exclusions>
 		</dependency>
 	</dependencies>
-
-	<build>
-		<plugins>
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
-	</build>
 
 </project>
